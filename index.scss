@@ -243,6 +243,8 @@ footer {
 
     .footer_right {
         display: flex;
+        width: 65%;
+        justify-content:space-between;  
         flex-wrap: wrap-reverse;
         gap: 20px;
 
